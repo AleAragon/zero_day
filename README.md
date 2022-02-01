@@ -1,9 +1,10 @@
-# 0x03. GIT
+#0x03 GIT
 
 ## Description
-This is the first repository
+
+This is the first repository in Git.
 
 ## Concepts
 
-* Git and GitHUb
 * Learning Git
+* Git and Github
