@@ -5,6 +5,7 @@
 A new directory in the repository
 
 ## Concepts
+
 * GitHub
 * git push
 * git branch
