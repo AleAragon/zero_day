@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first repository in Git.
+This is the first repository in Git to explain new concepts.
 
 ## Concepts
 
